@@ -82,6 +82,7 @@ This section provides a phased approach to building in public, helping you estab
 ### Consistency is Key
    - Develop a schedule: Create a content calendar to post consistently (e.g., daily updates, weekly milestones).
    - Balance Sharing and Building: Avoid spending too much time crafting posts at the expense of actual progress.
+   - Optional worksheet: [30-day content planner (Slovak, XLSX)](https://kupitsledovatelov.sk/resources/sk/content-planner.xlsx) provides blank slots for dates, topics, formats, key messages and evaluation notes, with a clearly labelled model example.
 
 ### Show, Don’t Tell
    - Visual Proof: Use screenshots, videos, GIFs, or diagrams to share what you've achieved.
