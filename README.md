@@ -159,6 +159,10 @@ Joining communities is essential for support, inspiration, and learning from lik
 
 
 
+### Tools for Sharing Progress
+
+- **[Ship & Shout](https://www.shipandshout.com/)** – Turns your weekly GitHub commits and Stripe/Lemon Squeezy revenue into a ready-to-post progress update with a chart, so the weekly post never gets skipped. Read-only, free tier.
+
 ### Helpful Directories & Launch Tools
 
 - **[Awesome Launch Platforms](https://github.com/DirectorySurf/awesome-launch-platforms)** – Platforms to launch, promote, and showcase your product.
