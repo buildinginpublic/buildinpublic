@@ -166,6 +166,7 @@ Joining communities is essential for support, inspiration, and learning from lik
 - **[Directory of Directories](https://github.com/dariubs/directory-of-directories)** – Meta-list of directories across industries and topics.
 - **[AI Directories](https://github.com/best-of-ai/ai-directories)** – Curated list of AI tool directories to discover or submit AI projects.
 - **[Altern](https://altern.ai/)** – Search and discover AI tools with detailed filtering and comparisons.
+- **[RespawnStack](https://respawnstack.com)** – Directory of AI tools for game development.
 - **[Product Hunt Alternatives](https://github.com/DirectorySurf/awesome-producthunt-alternatives)** – Alternative sites to launch and promote products beyond Product Hunt.
 - **[G2 Alternatives](https://github.com/DirectorySurf/awesome-g2-alternatives)** – Other platforms for software discovery and reviews outside of G2.
 - **[TAAFT Alternatives](https://github.com/DirectorySurf/awesome-theresanaiforthat-alternatives)** – Alternative AI tool directories beyond *taaft*.
