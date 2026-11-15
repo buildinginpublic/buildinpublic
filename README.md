@@ -169,6 +169,7 @@ Joining communities is essential for support, inspiration, and learning from lik
 - **[Product Hunt Alternatives](https://github.com/DirectorySurf/awesome-producthunt-alternatives)** – Alternative sites to launch and promote products beyond Product Hunt.
 - **[G2 Alternatives](https://github.com/DirectorySurf/awesome-g2-alternatives)** – Other platforms for software discovery and reviews outside of G2.
 - **[TAAFT Alternatives](https://github.com/DirectorySurf/awesome-theresanaiforthat-alternatives)** – Alternative AI tool directories beyond *taaft*.
+- **[No Stairs Please MCP](https://nostairsplease.com/mcp)** - Public hosted MCP server and live-music venue directory for touring artists, solo acts, and talent buyers.
 
 ---
 
